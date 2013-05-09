@@ -1,0 +1,3 @@
+rootProject.name = 'reactor-quickstart'
+
+include 'core', 'simple', 'composable'
